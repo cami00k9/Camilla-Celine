@@ -36,22 +36,21 @@ img {
 }
 
 .blinking-pink {
-	background-color: pink;
-	animation: blink 1s ease-in-out infinite;
-	margin: 30px;
-	padding: 50px;
-	text-align: center;
+    background-color: pink;
+    animation: blink 1s ease-in-out infinite;
+    margin: 30px;
+    padding: 50px;
+    text-align: center;
 }
 
 @keyframes blink {
-	0% {
-		opacity: 1;
-	}
-	50% {
-		opacity: 0;
-	}
-	100% {
-		opacity: 1;
-	}
+    0% {
+        opacity: 1;
+    }
+    50% {
+        opacity: 0;
+    }
+    100% {
+        opacity: 1;
+    }
 }
-
