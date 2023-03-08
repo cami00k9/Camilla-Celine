@@ -1,15 +1,2 @@
-**bold text**
----
-
-	Here's a sentence with a footnote. [^1]
-
-[^1]: This is the footnote.
-
-- [x] Write the press release
-- [ ] Update the website
-- [ ] Contact the media
-
-# H1
-## H2
-### H3
+Hey, hey, hey! Er du klar til at rocke din PHP-kode med PhpStorm? Med dette fantastiske værktøj vil du føle dig som en sand rockstjerne i kodedalen. Så lad os ramme de rigtige noder og komme i gang med at kode! 🎸🤘🚀
 
